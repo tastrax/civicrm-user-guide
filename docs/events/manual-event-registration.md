@@ -160,8 +160,8 @@ change the person's status from "pending" to "registered".
 ![Search result page.](../img/CiviCRM-CiviEvent-MassRegistration-en.png "MassRegistration")
 
 
-3.  From the actions list just above the search results, choose **Add
-    Contacts to Event** then click **Go.**
+3.  From the actions list just above the search results, choose 
+    **Register Participants for event** then click **Go.**
 4.  Choose the event you would like to register participants for. Note
     that you cannot currently register participants en masse for past
     events.
